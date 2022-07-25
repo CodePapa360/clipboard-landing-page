@@ -34,8 +34,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### Useful resources
-
 ## Author
 
 - Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
