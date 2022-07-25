@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-2ERhHUUZAw)
 - [Live Site URL](https://codepapa360.github.io/clipboard-landing-page)
 
 ## My process
